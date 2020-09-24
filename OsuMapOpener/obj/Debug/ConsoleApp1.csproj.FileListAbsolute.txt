@@ -1,0 +1,8 @@
+C:\Users\Crafter\source\repos\Osu Map Opener\ConsoleApp1\bin\Debug\Settings\PathToOsu!.txt
+C:\Users\Crafter\source\repos\Osu Map Opener\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Crafter\source\repos\Osu Map Opener\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Crafter\source\repos\Osu Map Opener\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Crafter\source\repos\Osu Map Opener\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Crafter\source\repos\Osu Map Opener\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Crafter\source\repos\Osu Map Opener\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Crafter\source\repos\Osu Map Opener\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache

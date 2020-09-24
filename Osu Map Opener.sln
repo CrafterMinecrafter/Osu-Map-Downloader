@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OsuMapOpener", "./OsuMapOpener//OsuMapOpener.csproj", "{918BEEAA-09DD-45CE-B8C7-11AE6A1786DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{918BEEAA-09DD-45CE-B8C7-11AE6A1786DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{918BEEAA-09DD-45CE-B8C7-11AE6A1786DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{918BEEAA-09DD-45CE-B8C7-11AE6A1786DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{918BEEAA-09DD-45CE-B8C7-11AE6A1786DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDFF7C19-608E-41F3-A074-517B6FADC22F}
+	EndGlobalSection
+EndGlobal
