@@ -1,0 +1,9 @@
+C:\Users\Crafter\source\repos\Osu Map Opener\OsuMapOpener\bin\Release\Settings\PathToOsu!.txt
+C:\Users\Crafter\source\repos\Osu Map Opener\OsuMapOpener\obj\Release\OsuMapOpener.csproj.CoreCompileInputs.cache
+C:\Users\Crafter\source\repos\Osu Map Opener\OsuMapOpener\bin\Release\Osu Auto Map Opener!.exe.config
+C:\Users\Crafter\source\repos\Osu Map Opener\OsuMapOpener\bin\Release\Osu Auto Map Opener!.exe
+C:\Users\Crafter\source\repos\Osu Map Opener\OsuMapOpener\bin\Release\Osu Auto Map Opener!.pdb
+C:\Users\Crafter\source\repos\Osu Map Opener\OsuMapOpener\obj\Release\Osu Auto Map Opener!.exe
+C:\Users\Crafter\source\repos\Osu Map Opener\OsuMapOpener\obj\Release\Osu Auto Map Opener!.pdb
+C:\Users\Crafter\source\repos\Osu Map Opener\OsuMapOpener\bin\Release\Settings\PathToDownloads.txt
+C:\Users\Crafter\source\repos\Osu Map Opener\OsuMapOpener\bin\Release\Settings\MS_UpdateInterval.txt
