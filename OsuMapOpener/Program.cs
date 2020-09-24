@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Diagnostics;
 using System.IO;
 using System.Threading;
@@ -20,10 +20,11 @@ namespace OsuMapOpener
                 DownloadsPath = File.ReadAllText("./Settings/PathToDownloads.txt");
                 UpdateInterval = Convert.ToInt32(File.ReadAllText("./Settings/MS_UpdateInterval.txt"));
             }
-            catch(Exception ex)  { 
-                Console.WriteLine("Failed to load Settings, Error:\n" + ex.Message); 
+            catch (Exception ex)
+            {
+                Console.WriteLine("Failed to load Settings, Error:\n" + ex.Message);
             }
-            finally {}
+            finally { }
             #endregion
             Console.WriteLine("Loaded!");
             Console.WriteLine("Starting map checker");
