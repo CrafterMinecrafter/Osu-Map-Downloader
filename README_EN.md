@@ -16,4 +16,4 @@
 - [Download](https://www.tampermonkey.net) Tempermonkey for default browser
 - Create script in TamperMonkey and paste [this code](https://github.com/CrafterMinecrafter/Osu-Map-Downloader/blob/master/OsuMapDownloader/Index.js)
 - Save is
-##Done
+## Done
