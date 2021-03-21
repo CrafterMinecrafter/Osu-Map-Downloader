@@ -19,7 +19,40 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a61c4d6-d8a2-45f4-8772-918f1bf2af07" name="Default Changelist" comment="" />
+    <list default="true" id="7a61c4d6-d8a2-45f4-8772-918f1bf2af07" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Osu Map Downloader.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../Osu Map Downloader.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsuMapOpener/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsuMapOpener/OsuMapOpener.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../OsuMapOpener/OsuMapOpener.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsuMapOpener/OsuMapOpener.csproj.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsuMapOpener/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OsuMapOpener/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsuMapOpener/Settings/MS_UpdateInterval.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsuMapOpener/bin/Debug/Osu Auto Map Opener!.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsuMapOpener/bin/Debug/Osu Auto Map Opener!.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsuMapOpener/bin/Debug/Osu Auto Map Opener!.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsuMapOpener/bin/Debug/Settings/MS_UpdateInterval.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsuMapOpener/bin/Release/Osu Auto Map Opener!.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsuMapOpener/bin/Release/Osu Auto Map Opener!.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsuMapOpener/bin/Release/Osu Auto Map Opener!.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsuMapOpener/bin/Release/Settings/MS_UpdateInterval.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsuMapOpener/bin/Release/Settings/PathToDownloads.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsuMapOpener/bin/Release/Settings/PathToOsu!.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsuMapOpener/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsuMapOpener/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../OsuMapOpener/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsuMapOpener/obj/Debug/Osu Auto Map Opener!.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsuMapOpener/obj/Debug/Osu Auto Map Opener!.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsuMapOpener/obj/Debug/OsuMapOpener.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../OsuMapOpener/obj/Debug/OsuMapOpener.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsuMapOpener/obj/Debug/OsuMapOpener.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../OsuMapOpener/obj/Debug/OsuMapOpener.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsuMapOpener/obj/Debug/OsuMapOpener.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../OsuMapOpener/obj/Debug/OsuMapOpener.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsuMapOpener/obj/Release/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsuMapOpener/obj/Release/DesignTimeResolveAssemblyReferences.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsuMapOpener/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsuMapOpener/obj/Release/Osu Auto Map Opener!.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsuMapOpener/obj/Release/Osu Auto Map Opener!.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsuMapOpener/obj/Release/OsuMapOpener.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OsuMapOpener/obj/Release/OsuMapOpener.csproj.FileListAbsolute.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,19 +80,6 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -69,6 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600951896565</updated>
       <workItem from="1600951897759" duration="1253000" />
+      <workItem from="1616318131109" duration="3489000" />
     </task>
     <servers />
   </component>
@@ -85,5 +106,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="354" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1616319862487">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="354" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1616319862487" />
   </component>
 </project>

@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30413.136
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OsuMapOpener", "OsuMapOpener\OsuMapOpener.csproj", "{918BEEAA-09DD-45CE-B8C7-11AE6A1786DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OsuMapOpener", "OsuMapOpener\OsuMapOpener.csproj", "{BBC42515-B467-4528-BA5C-842C1686B1BB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +15,10 @@ Global
 		{918BEEAA-09DD-45CE-B8C7-11AE6A1786DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{918BEEAA-09DD-45CE-B8C7-11AE6A1786DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{918BEEAA-09DD-45CE-B8C7-11AE6A1786DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBC42515-B467-4528-BA5C-842C1686B1BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC42515-B467-4528-BA5C-842C1686B1BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC42515-B467-4528-BA5C-842C1686B1BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC42515-B467-4528-BA5C-842C1686B1BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
