@@ -3,7 +3,7 @@
 
 
 
-## Установите инструмент автоматического открытия карт Osu!:
+## Установите Osu_Map_Downloader:
 
 - [Скачайте](https://github.com/CrafterMinecrafter/Osu-Map-Downloader/releases) Osu_Map_Downloader
 - Распакуйте архив в любую папку
