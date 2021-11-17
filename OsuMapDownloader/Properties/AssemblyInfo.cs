@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("New_OsuMapOpener")]
+[assembly: AssemblyTitle("OsuMapDownloader")]
 [assembly: AssemblyDescription("https://github.com/CrafterMinecrafter")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("New_OsuMapOpener")]
+[assembly: AssemblyProduct("OsuMapDownloader")]
 [assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

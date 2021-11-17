@@ -5,21 +5,19 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Net;
 
-namespace OsuMapOpener
+namespace OsuMapDownloader
 {
     class Server
     {
-        /// <summary> 
-        /// Stops the Program.FindAndOpenBeatmap method
-        /// </summary>
-        public static bool StopAllChecks = false;
-
-        public static async Task Start()
+        public async Task Start()
         {
             HttpListener listener = new HttpListener();
             listener.Prefixes.Add("http://localhost:9524/OsuMapOpener/");
+
             listener.Start();
+
             Console.WriteLine("Server started!");
+
             for (; ; )
             {
                 byte[] content = null;
@@ -28,25 +26,17 @@ namespace OsuMapOpener
                 {
                     switch (context.Request.QueryString["f"])
                     {
-                        case "1":
+#if DEBUG
+                        case "d":
                             {
-                                string mapID = context.Request.QueryString["MapID"];
-                                if (mapID != "")
-                                {
-                                    content = Encoding.ASCII.GetBytes("Ok\nWaiting started\nmapID:" + mapID);
-                                    Program.threadForWait.Start(mapID);
-                                }
-                                else
-                                {
-                                    content = Encoding.ASCII.GetBytes("what?");
-                                }
-
+                                content = DebugRequest();
                                 break;
                             }
-                        case "2":
+#endif
+
+                        case "1":
                             {
-                                content = Encoding.ASCII.GetBytes("ok\nChecks stopped");
-                                StopAllChecks = true;
+                                content = DownloadRequest(context.Request.QueryString["MapID"]);
                                 break;
                             }
                         default:
@@ -65,5 +55,28 @@ namespace OsuMapOpener
                 stream.Close();
             }
         }
+
+        private byte[] DownloadRequest(string mapID)
+        {
+            byte[] message;
+            if (mapID != "")
+            {
+                message = Encoding.ASCII.GetBytes("Ok\nDownloading started\nmapID:" + mapID);
+                Program.threadForWait.Start(mapID);
+            }
+            else
+            {
+                message = Encoding.ASCII.GetBytes("what?");
+            }
+
+            return message;
+        }
+#if DEBUG
+        private byte[] DebugRequest()
+        {
+            return Encoding.ASCII.GetBytes(settings.Settings.data.ToJson());
+        }
+
+#endif
     }
 }

@@ -1,9 +1,0 @@
-C:\Users\Crafter\Documents\GitHub\Osu-Map-Downloader\OsuMapOpener\bin\Debug\Settings\PathToDownloads.txt
-C:\Users\Crafter\Documents\GitHub\Osu-Map-Downloader\OsuMapOpener\bin\Debug\Settings\PathToOsu!.txt
-C:\Users\Crafter\Documents\GitHub\Osu-Map-Downloader\OsuMapOpener\bin\Debug\OsuMapOpener.exe.config
-C:\Users\Crafter\Documents\GitHub\Osu-Map-Downloader\OsuMapOpener\bin\Debug\OsuMapOpener.exe
-C:\Users\Crafter\Documents\GitHub\Osu-Map-Downloader\OsuMapOpener\bin\Debug\OsuMapOpener.pdb
-C:\Users\Crafter\Documents\GitHub\Osu-Map-Downloader\OsuMapOpener\obj\Debug\OsuMapOpener.csprojAssemblyReference.cache
-C:\Users\Crafter\Documents\GitHub\Osu-Map-Downloader\OsuMapOpener\obj\Debug\OsuMapOpener.csproj.CoreCompileInputs.cache
-C:\Users\Crafter\Documents\GitHub\Osu-Map-Downloader\OsuMapOpener\obj\Debug\OsuMapOpener.exe
-C:\Users\Crafter\Documents\GitHub\Osu-Map-Downloader\OsuMapOpener\obj\Debug\OsuMapOpener.pdb
