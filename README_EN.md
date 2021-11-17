@@ -12,7 +12,7 @@
 
 ## Install the extension for the site and the script in this extension:
 - [Download] (https://www.tampermonkey.net) Tampermonkey for default browser
-- Create a script in TamperMonkey and paste [this code] (https://github.com/CrafterMinecrafter/Osu-Map-Downloader/blob/master/OsuMapDownloader/Index.js)
+- Create a script in TamperMonkey and paste [this code] (https://github.com/CrafterMinecrafter/Osu-Map-Downloader/blob/master/OsuSiteAddon/Index.js)
 - Save
 ## Ready
 - Now you can download maps in OSU very quickly
